@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Soma Academy",
-  "description": "Ignores X-Frame-Options to allow iFrames in Soma Academy",
+  "name": "Ignores X-Frame-Options",
+  "description": "Ignores X-Frame-Options to allow iFrames",
   "version": "1.0.0",
 
   "background": {
